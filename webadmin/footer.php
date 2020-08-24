@@ -1,6 +1,6 @@
 <div class="footer">
 	<div class="container">
-		<span class="copyright">Copyright &copy; <?php echo date('Y'); ?> Berita Kita </span>
+		<span class="copyright">Copyright &copy; <?php echo date('Y'); ?> Project Arif Rahman </span>
 	</div>
 </div>
 <div class="modal fade" id="modal_logout" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
